@@ -1,0 +1,7 @@
+def calculate_square(number):
+    return number ** 2
+
+# Example usage
+planet_position = 3.14159  # Replace with the actual planet position
+square_of_position = calculate_square(planet_position)
+print("The square of the planet's position is:", square_of_position)
